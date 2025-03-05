@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/src/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Blackjack/Blackjack.iml" filepath="$PROJECT_DIR$/src/Blackjack/Blackjack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Book/Book.iml" filepath="$PROJECT_DIR$/src/Book/Book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Car/Car.iml" filepath="$PROJECT_DIR$/src/Car/Car.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntroduktionTilProgramering.iml" filepath="$PROJECT_DIR$/IntroduktionTilProgramering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/KlasserOgObjekter/KlasserOgObjekter.iml" filepath="$PROJECT_DIR$/src/KlasserOgObjekter/KlasserOgObjekter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Motorregister/Motorregister.iml" filepath="$PROJECT_DIR$/src/Motorregister/Motorregister.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Movie/Movie.iml" filepath="$PROJECT_DIR$/src/Movie/Movie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/OpgaveArrays/OpgaveArrays.iml" filepath="$PROJECT_DIR$/src/OpgaveArrays/OpgaveArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Person/Person.iml" filepath="$PROJECT_DIR$/src/Person/Person.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Product/Product.iml" filepath="$PROJECT_DIR$/src/Product/Product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Terningkast/Terningkast.iml" filepath="$PROJECT_DIR$/src/Terningkast/Terningkast.iml" />
+    </modules>
+  </component>
+</project>
